@@ -1,4 +1,5 @@
 public class Car
 {
-  String name;
+  private String model;
+  private String make;
 }
